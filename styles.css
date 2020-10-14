@@ -1,0 +1,39 @@
+body{
+			background-image: url(1.jpg);
+		}
+		#layout{
+			width: 100%;
+			max-width: 1024px;
+			margin: auto;
+
+			
+				border-collapse:collapse;
+		}
+
+		#td{
+			padding: 20px;
+			vertical-align: top;
+			border: solid 3px yellow;
+		}
+		#futer{
+			text-align: center;
+		}
+		.bookImage{
+			padding-right: 20px;
+		}
+		#hedder{
+			font-size: 30px;
+		}
+		#week{
+			width: 100%;
+			margin-left: 300px;
+		}
+		#text{
+			width: 100%;
+			margin-left: 250px;
+		}
+		td{
+			
+		}
+			 
+		
